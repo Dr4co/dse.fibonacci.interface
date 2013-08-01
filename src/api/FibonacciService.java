@@ -1,7 +1,5 @@
 package api;
 
-public interface FibonacciService {
-    public String getFibonacci();
-    
+public interface FibonacciService {    
     public long getNextFib();
 }
